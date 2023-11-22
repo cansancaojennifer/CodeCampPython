@@ -1,1 +1,0 @@
-friends = {"Igor", "Caye", "Guzguz"}
