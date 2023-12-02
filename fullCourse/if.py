@@ -7,11 +7,6 @@ else:
     print("You're neither male or tall.")
 
 if is_male and is_tall:
-    print("You're a tall male.")
-else:
-    print("You're either not male or not tall or both.")
-
-if is_male and is_tall:
     print("You're a male or tall or both.")
 elif is_male and not(is_tall):
     print("You're a short male")
