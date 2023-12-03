@@ -12,3 +12,6 @@ monthConversions = {
     "Nov": "November",
     "Dec": "December"
 }
+
+print(monthConversions["Aug"])
+print(monthConversions.get("Dec"))
